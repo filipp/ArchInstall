@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+/private/tmp/ArchiCADInstaller/Install.app/Contents/ArchiCAD\ Installer.app/Contents/MacOS/ArchiCAD\ Installer
+/private/tmp/ArchiCADInstaller/Update.app/Contents/MacOS/ArchiCAD* -silent
+exit 0
